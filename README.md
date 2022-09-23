@@ -1,4 +1,4 @@
-### Andrea Borg
+# Andrea Borg
 
 **`Software Development student @UOM`**
 
@@ -22,5 +22,4 @@ I'm a 19 year old Software Development Student at the University of Malta.  Some
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 />
-
 
