@@ -1,4 +1,4 @@
-# 👓 Andrea Borg
+# Andrea Borg
 
 **`Software Development student @UOM`**
 
