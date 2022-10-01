@@ -5,7 +5,7 @@
 I'm a 19 year old Software Development Student at the University of Malta. I found a passion for coding somewhere along a journey which started in my secondary school years.  All the projects in my repositories are built from the ground up, from the wireframe to the final tested product, as I learn about more and more about programming languages, tools & technologies; after all learning is a lifelong journey 📘.
 
  <p align="left">
-    <a href="www.linkedin.com/in/andreaborg217">
+    <a href="https://www.linkedin.com/in/andreaborg217">
     <img alt="youtube subscribers" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
     </a> 
 </p>
