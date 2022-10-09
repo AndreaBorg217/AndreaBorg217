@@ -31,7 +31,7 @@ I'm a 19 year old Software Development Student at the University of Malta. I fou
 <img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 
-<br/><br/>
+<br/><br/><br/>
 
 ### 📊 Stats
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBorg217&show_icons=true&theme=gruvbox)
