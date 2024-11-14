@@ -2,7 +2,7 @@
 
 **`Software Engineer @Simply Staking`** **`Secretary General @ICT Students' Association`**
 
-I'm a 20 year old Software Development Student at the University of Malta who found a passion for coding somewhere along a journey which started in my secondary school years.  All the projects in my repositories are built from the ground up, from the wireframe to the final tested product, as I learn about more and more about programming, tools & technologies; after all learning is a lifelong journey 📘. <br><br>
+I'm a software engineer in the blockchain industry who is currently also reading a Master of Science [Mainly by Research] at the University of Malta. My areas of interest are Artificial Intelligence with a focus on NLP and neural networks, Data Science, and Big Data. <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreaborg217) 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreaBorg217?tab=repositories) 
 
