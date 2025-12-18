@@ -1,8 +1,10 @@
 # Andrea Borg
 
-**`Software Engineer @Simply Staking`** **`MSc student @UoM`** **`Secretary General @ICT Students' Association`**
+**`Software Engineer @Simply Staking`** **`MSc student @UoM`** 
 
-I'm a software engineer in the blockchain industry who is currently also reading a Master of Science [Mainly by Research] at the University of Malta. My areas of interest are Artificial Intelligence with a focus on NLP and neural networks, Data Science, and Big Data. <br><br>
+I am a motivated software engineer specialising in Python/Go and real-time data engineering for financial systems who is always looking to learn new things and meet people passionate about software engineering. 
+
+PS: I can also quit VIM. <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreaborg217) 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreaBorg217?tab=repositories) 
 
