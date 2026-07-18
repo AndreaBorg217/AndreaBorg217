@@ -1,6 +1,6 @@
 # Andrea Borg
 
-**`Software Engineer @Simply Staking`** **`MSc student @UoM`** 
+**`Software Engineer @Wildz Group`** **`MSc student @UoM`** 
 
 I am a motivated engineer specialising in Kafka and streaming technologies, especially real-time data engineering for financial systems. Please feel free to use my [dotfiles](https://github.com/AndreaBorg217/dev_setup) and to reach out to me on LinkedIn.
 
